@@ -1,8 +1,10 @@
  Rachana Y — Personal Portfolio Website
 
    About Me
-
-This repository contains my personal portfolio website, created to showcase my skills, projects, and resume in a clean and professional format. It serves as a digital profile for recruiters and collaborators to explore my work.
+This repository contains my personal portfolio website, 
+created to showcase my skills, projects, and resume in a
+clean and professional format. It serves as a digital 
+profile for recruiters and collaborators to explore my work.
 
  Live Portfolio
 
@@ -11,7 +13,7 @@ This repository contains my personal portfolio website, created to showcase my s
  HTML5
  CSS3
  JavaScript
- Git & GitHub
+ Git & GitHub+
 
  Features
 
